@@ -1,0 +1,30 @@
+1. I'm taking this course as I would like to get a better handle on building and designing data visualizations. Specifically, I would like to get a better grasp on building visualizations for text based data and models that use and generate text data.
+
+2. I think that I will get a background on data visualization mechanics and theory, and a little bit of information on the development of the field. I also get the impression that we will be looking at an overview of different visualizations and figuring out which types are better suited for communicating different messages in different types of data.
+
+3. Scala, Java, Python, Bash, JS(ish)
+
+4. Python or Scala
+
+5. In my first job, I worked on an analytics team at a small medical records company. We built some very basic interactive visualizations (bar charts and pie charts (sorry)) to give our clients some basic insight into information such as how many patients were being operated on, how long those operations were taking, etc.
+
+6. The datasets in my studies have been very small. The one I metioned above was somewhere in the realm of 20 gigabytes of raw data. We were using a pipeline to pare that down to the essentials, which couldn't have been more than the order of hundreds of MBs. For that, we were using Pentaho's tools, the kettle ETL tool and their accompanying charting framework (can't remember the name).
+
+7. N/A
+
+8. N/A
+
+9. I am definitely within 1 standard deviation of the mean. That being said, I assume I'm somewhere in between the 40th percentile or the 60th. 
+
+10. I'd say the same as above. I've learned some math and feel confident in my ability to do math and pick up new concepts, but I wouldn't say I'm an outstanding mathematician. I'm fairly sure some of the students are.
+
+11. Yes. Yes. Git/SVC
+
+12. 5/6 Years
+
+13. 1 Year
+
+14. I've been looking into ways to develop better word embeddings for use in NLP work -- embeddings which are more transparent about their biases or have them removed/significantly reduced in some way. As part of this, I've been reading papers about reducing bias in these embeddings, most of which are focused on signle dimensions of bias (though multiple dimensions of data), but also papers on different ways to build word embeddings. As such, I've read and presented on Facebook's fasttext embeddings. So learning about the strategy of building embeddings by using N-gram windows and compsing these pieces into embeddings for the full word you are looking for. Hopefully it will pair well with some of my current ideas on building better embeddings.
+
+
+
